@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nokits",
+  "name": "No Kits",
+  "description": "Removes Tinker's Construct Sharpening Kit functionality",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yako"],
+  "credits": "Team SlimeKnights for making Tconstruct",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["tconstruct"]
+}
+]
