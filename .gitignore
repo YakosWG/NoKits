@@ -1,0 +1,6 @@
+# Default ignored files
+/NoKits.iws
+
+# Project exclude paths
+/.gradle/
+/build/

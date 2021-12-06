@@ -2,10 +2,10 @@ package yako.nokits.init;
 
 import net.minecraftforge.common.config.Configuration;
 import org.apache.logging.log4j.Level;
-import scala.actors.threadpool.Arrays;
 import yako.nokits.NoKits;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class NoKitsConfig {
